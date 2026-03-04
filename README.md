@@ -1,0 +1,2 @@
+# atividade_avaliativa_01_perceptron
+# atividade_avaliativa_01_perceptron
